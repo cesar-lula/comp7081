@@ -24,9 +24,6 @@ public class ExampleUnitTest {
 
     public String tagCesar;
 
-    @Rule
-    //public ActivityTestRule<MainActivity> rule  = new  ActivityTestRule<>(MainActivity.class);
-
 
     @Test
     public void addition_isCorrect() throws Exception {
